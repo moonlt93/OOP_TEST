@@ -1,10 +1,9 @@
 package Dummy;
 
-import java.io.IOException;
+
 import java.util.Random;
 import java.util.Scanner;
-import java.util.Timer;
-import java.util.TimerTask;
+
 
 import Dummy.Character.Archer;
 import Dummy.Character.Oak;
@@ -953,7 +952,7 @@ public class DummyGameSet {
 	 		
 		
 		}
-		
+	
 	
 		
 	
